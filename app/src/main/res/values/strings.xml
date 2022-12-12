@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidMinorMay</string>
+    <string name="developers">Developers</string>
+    <string name="back">Back</string>
+    <string name="yugesh">Yugesh Verma</string>
+    <string name="emailyugesh">projectworldofficial@gmail.com</string>
+    <string name="emailgajen">Gajenpradhan18@gmail.com</string>
+    <string name="gajendra">Gajendra Pradhan</string>
+    <string name="abot">ABOUT</string>
+    <string name="stat">START</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="Hello">Hello</string>
+    <string name="next_question">Next Question</string>
+    <string name="quit">Quit</string>
+    <string name="restart">Restart</string>
+    <string name="your_score">Your Score</string>
+</resources>
